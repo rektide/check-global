@@ -1,0 +1,15 @@
+{
+	"name": "check-global",
+	"version": "1.0.0",
+	"description": "Check whether object is the global object",
+	"main": "check-global.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/check-global"
+	},
+	"author": "rektide de la faye",
+	"license": "X"
+}
