@@ -6,6 +6,7 @@ if(typeof window !== "undefined" && window.self){
 if(typeof global !== "undefined"){
 	test.push("if(global === o) return true;");
 }
+test.push("return false;")
 
 module.exports = new Function("o", test.join("\n"))
 test= null

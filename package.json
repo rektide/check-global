@@ -1,6 +1,6 @@
 {
 	"name": "check-global",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Check whether object is the global object",
 	"main": "check-global.js",
 	"scripts": {
